@@ -1,0 +1,16 @@
+li{
+  text-align: left;
+  vertical-align: middle;
+  width: 600px;
+  height:30px;
+}
+
+.textcol{
+  width: 400px;
+  height: 30px;
+  font-size: 30;
+}
+
+.strikethru{
+  text-decoration: line-through;
+}
